@@ -1,1 +1,1 @@
-![example workflow](https://github.com/github/docs/actions/workflows/dotnet.yml/badge.svg)
+![example workflow](https://github.com/PWilkosz99/PersonalAPP/actions/workflows/dotnet.yml/badge.svg)
